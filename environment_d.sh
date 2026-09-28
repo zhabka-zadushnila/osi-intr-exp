@@ -1,0 +1,2 @@
+echo 1 | sudo tee /sys/devices/system/cpu/cpufreq/boost
+sync
